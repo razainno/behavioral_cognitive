@@ -22,7 +22,7 @@ I used this sequence of seeds: ,, 7, 8, 9, 10, 15, 19, 28,98 I uploaded all file
 
 I noticed 3 different behavior of this  robot:
 * 1. Seeds 1, 5, 7, 8, 10. Robot moves to the target, then quickly go toward target and stopped to near it
-![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/2.gif"The robot gets stucked near the target")
+![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/3.gif "The robot gets stucked near the target")
 * 2. Seeds 15. Robot moves to the target and then start to move around the target.
 ![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/2.gif "The robot gets stucked near the target")
 * 3. Seed 19. Robot moves to the target and then  rotates around its axis.
