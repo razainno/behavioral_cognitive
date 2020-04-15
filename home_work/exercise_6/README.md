@@ -22,11 +22,11 @@ I used this sequence of seeds: ,, 7, 8, 9, 10, 15, 19, 28,98 I uploaded all file
 
 I noticed 3 different behavior of this  robot:
 * 1. Seeds 1, 5, 7, 8, 10. Robot moves to the target, then quickly go toward target and stopped to near it
-![Alt text](https://github.com/rodosha98/Behavioural-and-Cognitive-Robotics/blob/task4-6/Exercise6/stuck.jpg "The robot gets stucked near the target")
+![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/ezgif.com-crop.gif"The robot gets stucked near the target")
 * 2. Seeds 15. Robot moves to the target and then start to move around the target.
-![Alt text](https://github.com/rodosha98/Behavioural-and-Cognitive-Robotics/blob/task4-6/Exercise6/stuck.jpg "The robot gets stucked near the target")
+![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/2.gif "The robot gets stucked near the target")
 * 3. Seed 19. Robot moves to the target and then  rotates around its axis.
-![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/ezgif.com-crop.gif "The robot gets stucked near the target")
+![Alt text](https://github.com/razainno/behavioral_cognitive/blob/master/home_work/exercise_6/3.gif "The robot gets stucked near the target")
 
 > Run other experiments by using a feed-forward neural architecture (without memory). 
 To enable Feed Forward neural network mode go to the ./xdiscrim folder and open ErDiscrim.ini file.
